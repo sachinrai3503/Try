@@ -1,1 +1,2 @@
-This is the 6th file of commit from different source
+This is the 6th file of commit from different source.
+Also. this is deleted in other repo which will be commited fiest
